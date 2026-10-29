@@ -18,3 +18,5 @@ print(f"seaborn: {sns.__version__}")
 print(f"plotly: {plotly.__version__}")
 print(f"scikit-learn: {sklearn.__version__}")
 data = pd.read_csv("data/week-3/Inequality in Education.csv")
+
+print(data)
