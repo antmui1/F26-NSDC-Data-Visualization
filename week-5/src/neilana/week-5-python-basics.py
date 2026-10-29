@@ -32,7 +32,7 @@ print(data.describe())
 
 # Write code here:
 
-
+print(data[["country", "year"]])
 
 # Print out only rows where the country is "Malawi"
 
